@@ -1,4 +1,4 @@
-# GottaCatchEmAll
+# Alphabet Hunt
 Personal Android Application Project
 
 Fully functional kid-friendly mobile game to test alphabet comprehension by challenging users to find and capture images of objects corresponding to a randomly selected letter. The appllication was developed in Java using Android Studio and XML.
